@@ -20,7 +20,7 @@ Uses a transformer model to generate a summary.
 Model: A Hugging Face Transformer like distilbart-cnn is used for summarization.
 
 1. Clone the Repository
-git clone https://github.com/your-username/ai-github-issue-assistant.git
+git clone https://github.com/DIV123YA/ai-github-issue-assistant
 cd ai-github-issue-assistant
 
 
