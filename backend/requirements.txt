@@ -1,0 +1,8 @@
+# backend/requirements.txt
+
+fastapi
+pydantic
+uvicorn
+httpx
+transformers
+torch
